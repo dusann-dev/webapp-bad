@@ -1,0 +1,1 @@
+CREATE USER 'appbad_user'@'%' IDENTIFIED WITH mysql_native_password BY ''; GRANT ALL PRIVILEGES ON *.* TO 'appbad_user'@'%' WITH GRANT OPTION;
